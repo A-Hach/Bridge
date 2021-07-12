@@ -1,0 +1,14 @@
+#
+#
+#
+#
+
+le projet 'bridge' est le projet principal permet aux utilisateurs de communiquer entre eux par des messages ou des activités.
+
+le projet 'files.bridge' nous permet de stocker des fichiers (Images, Vidéos...) et de les recevoir par nom de fichier.
+
+-------------------------------------------
+Merci de votre compréhension             
+
+Équipe Bridge — Tous Droits Réservés © 2020
+-------------------------------------------

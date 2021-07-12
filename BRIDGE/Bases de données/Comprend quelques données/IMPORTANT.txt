@@ -1,0 +1,16 @@
+#
+#
+#
+#
+
+Si vous voulez importer cette base de donnée qui inclut des données initiales, alors vous devez copier le projet 'files.bridges' qui inclut quelques photos, vidéos, fichiers... etc, dans le même répertoire que le projet 'bridge'.
+
+le projet 'files.bridge' qui inclut ces fichiers est dans le même dossier de ce fichier 'IMPORTANT.txt' que vous le lisez.
+
+Pour la liste des comptes, vous la trouverez dans 'comptes.xml' tous les comptre ont le même mot de passe 'bridge2020'.
+
+-------------------------------------------
+Merci de votre compréhension             
+
+Équipe Bridge — Tous Droits Réservés © 2020
+-------------------------------------------

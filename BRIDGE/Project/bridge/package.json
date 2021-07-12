@@ -1,0 +1,26 @@
+{
+  "name": "bridge",
+  "version": "1.0.0",
+  "description": "Restez en contact avec vos amis et vos proches en temps réel et partagez des activités entre vous!",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "communication",
+    "share",
+    "chat",
+    "friendship",
+    "forum",
+    "help",
+    "post"
+  ],
+  "author": "Hassan Ait Nacer & Ayoub Hach",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

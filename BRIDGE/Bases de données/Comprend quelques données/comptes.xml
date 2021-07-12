@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comptes password="bridge2020">
+  <compte login="aitnacer" />
+  <compte login="hach" />
+  <compte login="buffon" />
+  <compte login="iniesta" />
+  <compte login="messi" />
+  <compte login="neymar" />
+  <compte login="pique" />
+  <compte login="ronaldo" />
+</comptes>
